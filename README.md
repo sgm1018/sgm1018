@@ -55,7 +55,7 @@ I enjoy solving complex problems and bringing ideas to life through software. Wh
 
 ## 📢 Find me elsewhere
 <p align="left">
-  <a href="https://leetcode.com/SergioDev">
+  <a href="https://www.linkedin.com/in/sergiogm1999/">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
