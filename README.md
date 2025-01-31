@@ -11,7 +11,7 @@ I enjoy solving complex problems and bringing ideas to life through software. Wh
 - 📫 How to reach me: [1018sgm10182@gmail.com](mailto:1018sgm10182@gmail.com);
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SergioDev" alt="Profile Views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sgm1018" alt="Profile Views" /> </p>
 
 ---
 
